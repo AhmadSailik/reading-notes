@@ -1,0 +1,1 @@
+I learnt about command such as pwd, ls, cd, and type of path absolute and relative, finally learnt about most common extensions.   
