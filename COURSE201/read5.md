@@ -1,0 +1,51 @@
+# HTML
+- **the image should be** relevant to subject, have information and fit the color to page
+- can you find it by 
+    - stock photo
+        - www.istockphoto.com
+        - www.gettyimages.com
+        - www.veer.com
+        - www.sxc.hu
+        - www.fotolia.com
+    - online extra 
+- how can you add image
+    - by `<img scr'image' alt 'if photo have problem' width='' hight=''>`
+- you can align photo horizontal and vertical by 
+    - `<align='left or right'>`
+    - `<align='top, middle, bottom'>`
+- three rules for creating image
+    - save right format image like: jpeg, gif and png
+        - use gif and png for the image have few color or have large area with same color
+    - choose correct size by controll in width and hight
+    - choose the appropriate resolution
+        - you should save resolution at 72 pixle because don't take more time in download
+- type of image
+    - bitmap image
+    - vector image
+        - a vector graphic consists of shapes, curves, lines, and text which together make a picture, and contains instructions about where to place each of the components. While a bitmap image contains information about the color of each pixel.
+- diffrence between `<figure><figcaption>`is the `<figure>` have more than image inside
+# CSS
+* The color created by mixing amounts of red, green, and blue.
+* adding the color by three ways: 
+    - Color Name
+    - HEX Codes
+    - RBG Value
+* Can you control in opacity by **RBGA**
+- font-family
+    - used to specify the typeface that shuold be with any text inside element
+- font-size
+    - used to specify a size for the font and can you do that by three ways pixle, percentages, ems
+- @ font-face
+    - used a font without install on user browser
+- font-weight
+    - controll in bold of text
+- font-style
+    - design the tex be italic, oblique or normal
+- text-transform
+    - change the shape letter of text by use uppercase, lowercase and capitalize 
+- text-decoration
+    - used to add decoration to text like none, underline, overline, line-through, blink
+- text-align
+    - used to control the alignment of text by left, right, center, justify
+- vertical-align
+    - used to control the alignment of text by top, middle, bottom
