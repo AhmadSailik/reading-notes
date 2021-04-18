@@ -1,0 +1,24 @@
+# image
+- controlling size of image by 
+    - width
+    - hight
+- aligning image by float to left or right 
+- aligning image to center by
+    - {`display:block;``margin:0px auto;`}
+- add image to bachground by 
+    - image-background:url("image")
+- `background-repeat`:have four value
+    - repreat:the image repeat on x and y 
+    - repeat-x,repeat-y
+- `background position`:use to specific place of image
+- **SEO(search engine optimization):** that is help your site to appear in search engine result and that divied to two area
+    - on-page: methods use to improve rating in search engine
+    - off-page: search engine determine your rank by number of other sites that link to you
+    - seven key on website to improve its findability
+        - page title
+        - url
+        - heading 
+        - text
+        - link text 
+        - image alt text 
+        - page description
