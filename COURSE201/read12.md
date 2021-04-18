@@ -1,0 +1,42 @@
+- chart.js create 3 graphs
+    - Drawing a line chart
+    - Drawing a pie chart
+    - Drawing a bar chart
+**Drawing shapes with canvas**
+- Drawing rectangles
+    - fillRect(x, y, width, height)
+        - for draws a filled rectangle.
+    - strokeRect(x, y, width, height)
+        - for draws a rectangular outline.    
+    - clearRect(x, y, width, height)
+        - forClears the specified rectangular area, making it fully transparent.
+- Drawing paths
+    - beginPath()
+        - for creates a new path
+    - Path methods
+        - for methods to set different paths for objects.
+    - closePath()
+        - for adds a straight line to the path
+    - stroke()
+        - for draws the shape by stroking its outline.
+    - fill()
+        - for draws a solid shape by filling the path's content area.
+**you can add styles like**
+- Colors by
+    - fillStyle = color
+        - sets the style used when filling shapes.
+    - strokeStyle = color
+        - sets the style for shapes' outlines.
+- Line styles
+    - lineWidth = value
+        - sets the width of lines 
+    - lineCap = type
+        - sets the appearance of the ends of lines.
+    - lineJoin = type
+        - sets the appearance of the "corners" where lines meet.
+    - miterLimit = value
+        - establishes a limit on the miter when two lines join at a sharp angle
+    - getLineDash()
+        - returns the current line dash pattern array 
+    - setLineDash(segments)
+        - sets the current line dash pattern.
