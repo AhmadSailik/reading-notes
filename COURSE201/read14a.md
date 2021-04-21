@@ -1,6 +1,0 @@
-- benefits of work as groups:
-    - work faster 
-    - see mistakes more quickly
-    - see mistakes more quickly
-- the defference between tha good team from the others is how teammates treated one another
-- everyone had spoken roughly the same amount that is one of the advantages of good team
