@@ -5,7 +5,7 @@ A component is a modular, portable, replaceable, and reusable set of well-define
 - Conventional view
 - Process-related view
 
-**Advantages of a Component **
+**Advantages of a Component**
 - Ease of deployment
 - Reduced cost
 - Ease of development 
@@ -14,4 +14,14 @@ A component is a modular, portable, replaceable, and reusable set of well-define
 - Reliability
 - System maintenance and evolution
 - Independent
+
+## What is Props?
+ is a special keyword in React to comuncation between components in one-way
+ 
+**How are props used in React?**
+- Defining Attribute & Data
+- Passing Data using Props
+- Rendering Props Data
+ 
+
 
