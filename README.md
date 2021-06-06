@@ -40,12 +40,12 @@ read 15  | [Calss 15](COURSE201\read15.md)
 
 Reading  | Link
 ---------|-------------------
-read 1   | [Calss 1](COURSE301\read1.md)
-read 2   | [Calss 2](COURSE301\read2.md)
-read 3   | [Calss 3](COURSE301\read3.md)
-read 4   | [Calss 4](COURSE301\read4.md)
-read 5   | [Calss 5](COURSE301\read5.md)
-read 6   | [Calss 6](COURSE301\read6.md)
+read 1   | [Calss 1](COURSE301/read1.md)
+read 2   | [Calss 2](COURSE301/read2.md)
+read 3   | [Calss 3](COURSE301/read3.md)
+read 4   | [Calss 4](COURSE301/read4.md)
+read 5   | [Calss 5](COURSE301/read5.md)
+read 6   | [Calss 6](COURSE301/read6.md)
 read 7   | [Calss 7](COURSE301\read7.md)
 read 8   | [Calss 8](COURSE301\read8.md)
 read 9   | [Calss 9](COURSE301\read9.md)
